@@ -1,0 +1,5 @@
+{
+  "name": "Prueba",
+  "description": "Generador de presentaciones de proyectos TI con diagramas de Gantt y vistas de Excel impulsado por Gemini AI.",
+  "requestFramePermissions": []
+}
